@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3DF7&height=180&section=header&text=Дмитрий&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descSize=20&descAlignY=60" alt="Дмитрий — Backend Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3DF7&height=180&section=header&text=Дмитрий&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descSize=20&descAlignY=60" alt="Dmytro — Backend Developer" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3DF7&center=true&vCenter=true&width=520&lines=Building+fast+APIs+with+FastAPI;Shipping+robust+backends+with+Django;Designing+clean+PostgreSQL+schemas" alt="Typing SVG" />
